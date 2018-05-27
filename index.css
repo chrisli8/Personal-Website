@@ -1,0 +1,41 @@
+body, html, #titleCard {
+	padding: 0px;
+	margin: 0px;
+}
+
+body, html {
+	height: 100%;
+}
+
+body {
+	color: blue;
+	background-image: url("setting_sun_02.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#titleCard {
+	/*background-color: yellow;
+	background-image: url("setting_sun_02.jpg");
+	background-size: 1000px;
+	background-repeat: no-repeat;
+	min-height: 1000px;*/
+	margin: 0px;
+	padding: 0px;
+}
+
+.window {
+	height: 30%;
+	width: 100%;
+	background-color: rgba(255, 255, 255, 0.0);
+}
+
+.content {
+	color: black;
+	padding: 20px;
+	width: 100%;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+
